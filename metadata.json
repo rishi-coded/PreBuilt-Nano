@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Stylizer",
+  "description": "An AI-powered photo editing application that allows users to upload an image and apply various pre-defined artistic styles using the Gemini API's image editing capabilities.",
+  "requestFramePermissions": []
+}
